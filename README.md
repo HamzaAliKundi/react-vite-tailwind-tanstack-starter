@@ -6,4 +6,4 @@
 
 ## To run the project locally
 
-`npm run dev` for normal running
+`npm run dev`
